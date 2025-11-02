@@ -19,3 +19,4 @@ This repository uses the recommended structure for a Soroban project:
 - If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
 - Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
 - Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+- <img width="1920" height="1080" alt="Screenshot 2025-11-02 174504" src="https://github.com/user-attachments/assets/dcd3d492-d6e5-4852-9ffa-279ebf752b17" />
